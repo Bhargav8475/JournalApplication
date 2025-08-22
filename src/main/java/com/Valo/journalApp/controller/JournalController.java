@@ -1,3 +1,5 @@
+/*
+
 package com.Valo.journalApp.controller;
 
 import com.Valo.journalApp.entity.Journal;
@@ -6,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 
 @RestController
-@RequestMapping("/journal")
+@RequestMapping("/journalCache")
 class JournalController {
     private ArrayList<Journal> journalEntries = new ArrayList<Journal>();
 
@@ -53,3 +55,4 @@ class JournalController {
     }
 
 }
+*/

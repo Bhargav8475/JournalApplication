@@ -31,4 +31,9 @@ public class JournalService {
         journalRepository.deleteById(objectId);
     }
 
+    public List<Journal> saveAllEntries(List<Journal> journals) {
+        return journalRepository.saveAll(journals);
+    }
+
+
 }

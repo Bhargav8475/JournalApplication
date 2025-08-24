@@ -1,3 +1,6 @@
+/*
+
+
 package com.Valo.journalApp.controller;
 
 import com.Valo.journalApp.entity.Journal;
@@ -93,3 +96,6 @@ class JournalControllerV2 {
     }
 
 }
+
+
+*/
